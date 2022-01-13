@@ -1,0 +1,1 @@
+worker: dotnet build && dotnet run
